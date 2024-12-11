@@ -173,6 +173,7 @@ svg {
 /* ------------------------------ */
 /* カスタムプロパティ */
 /* ------------------------------ */
+
 :root {
     --color-font-base: #1f1f1f;
     --color-header-gradient: linear-gradient(90deg, #fddb92, #d1fdfe);
